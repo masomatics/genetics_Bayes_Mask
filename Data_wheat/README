@@ -1,0 +1,9 @@
+n = 599, p = 1279
+y = the phenotypic trait considered here was the average grain yield (GY) of the 599 wheat lines evaluated in each of these four mega-environments.  
+These are normalized dataset.  Mean 0,  Std 1. 
+Measured in four types of environment. Each column corresponds to an environment,
+and each row an individual. 
+
+x = Genotype.  DArT marker Genome (binary existence of allele)
+The number of DArT markers after edition was 1279.
+

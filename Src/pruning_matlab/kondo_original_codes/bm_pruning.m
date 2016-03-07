@@ -1,3 +1,10 @@
+%Y : Output
+%X : Input
+%I_max :   Number of iterations
+%SEED :    seed number 
+%T_EM_EG : Iteration at which to shift from FAB-EM to FAB-EG
+%ks_irrelevantÅ@:  True number of irrelevant ks 
+
 function [] = bm_pruning(Y,X,I_max,SEED,T_EM_EG,ks_irrelevant)
 N = size(X,1);% Number of data points
 K = size(X,2);% Dimension of parameter vector

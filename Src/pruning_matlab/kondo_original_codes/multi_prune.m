@@ -1,3 +1,8 @@
+% This file tests the bm_pruning result on files in
+% test_pruning/dataXXX, which are not provided.
+%
+%
+
 clear all
 close all
 
